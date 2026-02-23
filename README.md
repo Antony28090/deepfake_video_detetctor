@@ -50,6 +50,3 @@ A web application that detects whether a given video contains deepfake manipulat
    Open your web browser and navigate to `http://127.0.0.1:5000/`.
 3. **Upload a Video:**
    Select a `.mp4`, `.avi`, or `.mov` file and click upload to analyze. The application will process the video and display the result.
-
-## License
-MIT
